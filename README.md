@@ -7,4 +7,5 @@ adding another line, making some changes
 creating trouble for conflict
 This is to handle stash
 this is stash4
+this is stash4
 this is final stash
