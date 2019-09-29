@@ -5,4 +5,4 @@ adding second line to the file for updating GIT
 
 adding another line, making some changes
 creating trouble for conflict
-I hope this doesnt create conflicts
+This is to handle stash
